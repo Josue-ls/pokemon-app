@@ -24,4 +24,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Live Demo
-(Pokemon App)[https://vue-pokemon-objective.netlify.app/]
+[Pokemon App](https://vue-pokemon-objective.netlify.app/)
